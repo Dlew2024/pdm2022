@@ -1,11 +1,11 @@
 
 let sounds = new Tone.Players({
 
-  "Liability": "sounds/DrakeLiability.mp3",
-  "Major Distribution": "sounds/DrakeMajorDistribution.mp3",
-  "Marvins Room": "sounds/DrakeMarvinsRoom.mp3",
-  "Time Flies": "sounds/DrakeTimeFlies.mp3",
-  "Yebbas Heartbreak": "sounds/DrakeYebbasHeartbreak.mp3"
+  "Liability": "sounds/DrakeLiability.mov",
+  "Major Distribution": "sounds/DrakeMajorDistribution.mov",
+  "Marvins Room": "sounds/DrakeMarvinsRoom.mov",
+  "Time Flies": "sounds/DrakeTimeFlies.mov",
+  "Yebbas Heartbreak": "sounds/DrakeYebbasHeartbreak.mov"
 
 })
 
